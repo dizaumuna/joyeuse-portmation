@@ -12,7 +12,7 @@ jobs:
      - uses: actions/checkout@v4
        with:
          repository: dizaumuna/Builder
-         ref: oxygenos_15
+         ref: oxygenos_14
          token: ${{ secrets.BUILDER_PRV }}
 
       - name: Free disk space (1/3)
