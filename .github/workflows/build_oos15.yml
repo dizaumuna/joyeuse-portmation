@@ -1,4 +1,4 @@
-name: Build
+name: Build OxygenOS 15 for atoll
 
 on:
   workflow_dispatch:
