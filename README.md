@@ -12,7 +12,7 @@
 
 | Feature            | Description    | State |
 |:-------------------|:---------------|:-----:|
-| Booting            | ZyGote Crashes | ⚠️    |
+| Booting            |                | ✅    |
 | Display            | Brightness GG  | ⚠️    |
 | FBE & AVB          |                | ❌    |
 | MTP                |                | ✅    |
@@ -23,7 +23,6 @@
 |:-------------------|:---------------|:-----:|
 | Booting            |                | ✅    |
 | Display            |                | ✅    |
-| FBE & AVB          |                | ✅    |
+| FBE & AVB          |                | ❌    |
 | MTP                |                | ✅    |
-| ADB                |                | ✅    |
 
